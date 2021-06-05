@@ -32,4 +32,4 @@ By studying the various effects of money laundering to the economy of different 
 # Google Colab
 Click <a href="https://colab.research.google.com/drive/1ieYImUvGeoT9KY3dn3hxbakvV1csGllG?authuser=1">here</a> to view the Google Colab online
 # Google Docs
-Click <a href="https://docs.google.com/document/d/1Ur5aZL8Inx8bPK0HGe--P2ZGZvfi1ViVh3YOVPp2YUA/edit#">here</a> to view the Whole report online
+Click <a href="https://docs.google.com/document/d/1Ur5aZL8Inx8bPK0HGe--P2ZGZvfi1ViVh3YOVPp2YUA/edit#">here</a> to view the whole report online
