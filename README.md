@@ -29,4 +29,7 @@ Annual gdp - <a href="https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?end=20
 Tax revenue share of gdp - <a href="https://www.icij.org/investigations/fincen-files/download-fincen-files-transaction-data/">Global data on taxes</a> <br>
 # Benefits of this study
 By studying the various effects of money laundering to the economy of different countries, the root cause of this can be identified and methods to overcome this problem can be found. This may heavily influence the development of several countries that are trying to achieve a well balanced economic system.
-
+# Google Colab
+Click <a href="https://colab.research.google.com/drive/1ieYImUvGeoT9KY3dn3hxbakvV1csGllG?authuser=1">here</a> to view the Google Colab online
+# Google Docs
+Click <a href="https://docs.google.com/document/d/1Ur5aZL8Inx8bPK0HGe--P2ZGZvfi1ViVh3YOVPp2YUA/edit#">here</a> to view the Whole report online
