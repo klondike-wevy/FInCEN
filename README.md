@@ -27,3 +27,6 @@ Supplementary datasets: <br>
 
 Annual gdp - The World Bank GDP Data <br>
 Tax revenue share of gdp - Global data on taxes <br>
+# Benefits of this study
+By studying the various effects of money laundering to the economy of different countries, the root cause of this can be identified and methods to overcome this problem can be found. This may heavily influence the development of several countries that are trying to achieve a well balanced economic system.
+
